@@ -3,7 +3,11 @@ this is a sample file
 
 A new dummy change
 
+apply a new change...
 applying a new change over here...
 
 
 changes have been finalized, please check here and accept my pull request :).
+
+
+
